@@ -1,0 +1,2 @@
+module DeviseOverrides::RegistrationsHelper
+end
